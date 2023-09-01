@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amar-the-coder
 - 👀 I’m interested in building projects
-- 🌱 I’m currently learning Full Stack Development [MERN]
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on open source contributons
 - 📫 How to reach me ... linkedin.com/in/amarjeet-mandal-7871211b0
 
